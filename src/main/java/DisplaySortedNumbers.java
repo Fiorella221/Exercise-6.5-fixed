@@ -33,7 +33,7 @@ public class DisplaySortedNumbers {
     * @param num2 Second number to be sorted
     * @param num3 Third number to be sorted
   */
-  public static void displaySortedNumbers(double num1, double num2,      double num3) {
+  public static void displaySortedNumbers(double num1, double num2, double num3) {
     double temp;
     if (num1 > num2) {
         temp = num1;
